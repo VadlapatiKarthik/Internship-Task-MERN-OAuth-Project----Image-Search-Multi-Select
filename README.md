@@ -50,7 +50,7 @@ cp .env.example .env
 # Edit .env with your credentials (see below)
 npm install
 npm run dev
-# Server: http://localhost:
+# Server: http://localhost:5000
 
 3. **Client**
 
